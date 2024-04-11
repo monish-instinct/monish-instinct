@@ -17,4 +17,5 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Hi+there..!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 </p>
+
 [![InstincT's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=monish-instinct&bg_color=000000&color=d695d1&line=91368b&point=636363&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
