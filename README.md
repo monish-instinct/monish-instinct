@@ -46,6 +46,6 @@ I am always eager to learn, grow, and explore new opportunities in the tech worl
 
 **Connect with Me:**
 
-- [LinkedIn](https://www.linkedin.com/monish-instinct)
+- [LinkedIn]([https://www.linkedin.com/monish-instinct](https://www.linkedin.com/in/monish-instinct/))
 - [Twitter](https://twitter.com/monish_instinct)
 - [Email](mailto:pjmonish2005@gmail.com)
