@@ -20,12 +20,6 @@ Here are some ideas to get you started:
 
 [![InstincT's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=monish-instinct&bg_color=000000&color=d695d1&line=91368b&point=636363&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-# Monish
-
-**Dedicated Computer Science Student with a Passion for Technology and Artificial Intelligence**
-
----
-
 ### About Me
 
 I am Monish, a dedicated Computer Science student with a strong passion for technology and artificial intelligence. My journey in tech is highlighted by several key achievements:
