@@ -1,24 +1,18 @@
-<p align="center">
+<div align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Hi+there..!+I'm+Monish!&font=Fira%20Code&center=true&width=500&height=50&duration=4000&pause=1000" alt="Welcome Typing SVG">
-</p>
-
-<p align="center">
+  <br><br>
   <a href="https://github.com/monish-instinct">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=monish-instinct&theme=github_dark" alt="GitHub Profile Summary">
   </a>
-</p>
-
-<p align="center">
+  <br><br>
   <a href="https://github.com/monish-instinct">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=monish-instinct&theme=neon-palenight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak">
   </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/monish-instinct">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=monish-instinct&bg_color=000000&color=d695d1&line=91368b&point=636363&area=true&hide_border=true" alt="GitHub Activity Graph">
+  <br><br>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=monish-instinct&bg_color=060505&color=367e35&line=4a9667&point=403d3d&area=true&hide_border=true" alt="GitHub Activity Graph">
   </a>
-</p>
+</div>
 
 ---
 
@@ -42,9 +36,9 @@ I am **Monish**, a dedicated Computer Science student with a profound passion fo
 
 ## Achievements
 
-<p align="center">
+<div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=monish-instinct&theme=onestar&no-frame=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophy">
-</p>
+</div>
 
 ---
 
@@ -56,7 +50,7 @@ I am **Monish**, a dedicated Computer Science student with a profound passion fo
 
 ## Connect with Me
 
-<p align="center">
+<div align="center">
   <a href="https://www.linkedin.com/in/monish-instinct/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
@@ -66,13 +60,13 @@ I am **Monish**, a dedicated Computer Science student with a profound passion fo
   <a href="mailto:pjmonish2005@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-</p>
+</div>
 
 ---
 
-<p align="center">
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=monish-instinct&style=for-the-badge&color=brightgreen" alt="Profile Views">
-</p>
+</div>
 
 ---
 
@@ -91,3 +85,10 @@ I am **Monish**, a dedicated Computer Science student with a profound passion fo
 - ✨ **Contributions**: Actively contributing to open-source projects and communities.
 - 🧠 **Learning**: Constantly exploring new technologies and methodologies in AI and software development.
 
+---
+
+## GitHub Metrics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=monish-instinct&repo=InstinctCMS&theme=radical&hide_border=true" alt="Pinned Repo" style="width:60%;">
+</div>
