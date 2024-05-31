@@ -1,10 +1,4 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+there..!+I'm+Monish!&font=Fira%20Code&center=true&width=500&height=50&duration=4000&pause=1000&color=36BCF7" alt="Welcome Typing SVG">
-</div>
-
-<br>
-
-<div align="center">
   <a href="https://github.com/monish-instinct">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=monish-instinct&theme=github_dark" alt="GitHub Profile Summary" width="70%">
   </a>
