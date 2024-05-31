@@ -1,6 +1,10 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+there..!+I'm+Monish!&font=Fira%20Code&center=true&width=500&height=50&duration=4000&pause=1000" alt="Welcome Typing SVG">
-  <br><br>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+there..!+I'm+Monish!&font=Fira%20Code&center=true&width=500&height=50&duration=4000&pause=1000&color=36BCF7" alt="Welcome Typing SVG">
+</div>
+
+<br>
+
+<div align="center">
   <a href="https://github.com/monish-instinct">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=monish-instinct&theme=github_dark" alt="GitHub Profile Summary">
   </a>
@@ -10,7 +14,7 @@
   </a>
   <br><br>
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=monish-instinct&bg_color=060505&color=367e35&line=4a9667&point=403d3d&area=true&hide_border=true" alt="GitHub Activity Graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=monish-instinct&bg_color=060505&color=36BCF7&line=4a9667&point=403d3d&area=true&hide_border=true" alt="GitHub Activity Graph">
   </a>
 </div>
 
