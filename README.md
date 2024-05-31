@@ -41,7 +41,7 @@ I am **Monish**, a dedicated Computer Science student with a profound passion fo
 </div>
 
 - 🌐 **Development**: Experienced in frontend development, basic Android and iOS development, and currently working on Vision OS and VR/AR apps using C# and WPF.
-- 💡 **Projects**: Check out my [website](http://instinctcms.com) and other tech projects.
+- 💡 **Projects**: Check out my [website](http://skynetbee.com) and other tech projects.
 
 ---
 
