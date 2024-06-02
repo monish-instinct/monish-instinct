@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/monish-instinct">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=monish-instinct&theme=neon-palenight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="70%">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=monish-instinct&theme=neon-palenight&hide_border=true&date_format=M%20j%5B%2C%20Y%5" alt="GitHub Streak" width="70%">
   </a>
   <br><br>
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
