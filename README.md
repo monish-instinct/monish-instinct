@@ -1,8 +1,4 @@
 <div align="center">
-  <a href="https://github.com/monish-instinct">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=monish-instinct&theme=neon-palenight&hide_border=true&date_format=M%20j%5B%2C%20Y%5" alt="GitHub Streak" width="70%">
-  </a>
-  <br><br>
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=monish-instinct&bg_color=060505&color=36BCF7&line=4a9667&point=403d3d&area=true&hide_border=true" alt="GitHub Activity Graph" width="70%">
   </a>
