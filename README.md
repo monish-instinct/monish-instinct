@@ -1,4 +1,8 @@
 <div align="center">
+   <a href="https://github.com/monish-instinct">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=monish-instinct&theme=github_dar" alt="GitHub Profile Summary">
+  </a>
+  <br><br>
   <a href="https://github.com/monish-instinct">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=monish-instinct&theme=neon-palenight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="70%">
   </a>
