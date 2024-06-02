@@ -1,6 +1,6 @@
 <div align="center">
    <a href="https://github.com/monish-instinct">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=monish-instinct&theme=github_dar" alt="GitHub Profile Summary">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=monish-instinct&theme=github_dark" alt="GitHub Profile Summary">
   </a>
   <br><br>
   <a href="https://github.com/monish-instinct">
