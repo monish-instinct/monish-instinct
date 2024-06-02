@@ -65,22 +65,10 @@ I am **Monish**, a dedicated Computer Science student with a profound passion fo
   </a>
 </div>
 
----
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=monish-instinct&style=for-the-badge&color=brightgreen" alt="Profile Views">
 </div>
 
----
-
-## Detailed Statistics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=monish-instinct&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" style="width:45%;margin:5px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monish-instinct&layout=compact&theme=radical&hide_border=true" alt="Top Languages" style="width:45%;margin:5px;">
-</div>
-
----
 
 ## Highlights
 
