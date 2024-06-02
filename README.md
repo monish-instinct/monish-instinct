@@ -75,5 +75,3 @@ I am **Monish**, a dedicated Computer Science student with a profound passion fo
 - ✨ **Contributions**: Actively contributing to open-source projects and communities.
 - 🧠 **Learning**: Constantly exploring new technologies and methodologies in AI and software development.
 
-
-![snake gif](https://github.com/monish-instinct/monish-instinct/blob/output/github-contribution-grid-snake.svg)
