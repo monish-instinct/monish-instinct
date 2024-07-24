@@ -1,10 +1,10 @@
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=monish-instinct&bg_color=060505&color=36BCF7&line=4a9667&point=403d3d&area=true&hide_border=true" alt="GitHub Activity Graph" width="70%">
   </a>
 </div>
 
----
+--- -->
 
 ## About Me
 
