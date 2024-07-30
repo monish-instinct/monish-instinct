@@ -4,9 +4,9 @@
   </a>
 </div>
 
---- -->
+--- 
 
-## About Me
+## About Me -->
 
 <div align="center">
   <img src="https://img.shields.io/badge/AI%20Enthusiast%20-%2300D1B2.svg?&style=for-the-badge&logo=artstation&logoColor=white" alt="AI Enthusiast">
