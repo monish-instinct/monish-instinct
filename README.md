@@ -14,9 +14,9 @@
 <!-- Professional Badges with Tech Colors -->
 <div style="margin: 20px 0;">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-skynetbee.com-6B73FF?style=for-the-badge&logoColor=white&labelColor=2D3748)](http://skynetbee.com)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-instinctcms.com-6B73FF?style=for-the-badge&logoColor=white&labelColor=2D3748)](http://instinctcms.com)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=for-the-badge&logoColor=white&labelColor=2D3748)](https://www.linkedin.com/in/monishjagatheswaran/)
-[![Email](https://img.shields.io/badge/📧_Email-Contact-EA4335?style=for-the-badge&logoColor=white&labelColor=2D3748)](mailto:pjmonish2005@gmail.com)
+[![Email](https://img.shields.io/badge/📧_Email-Contact-EA4335?style=for-the-badge&logoColor=white&labelColor=2D3748)](mailto:pjmonish@icloud.com)
 [![Twitter](https://img.shields.io/badge/🐦_Twitter-Follow-1DA1F2?style=for-the-badge&logoColor=white&labelColor=2D3748)](https://twitter.com/monish_instinct)
 
 </div>
@@ -181,7 +181,7 @@ const monish = {
 
 ### 🚀 Featured Projects
 
-**🌐 [SkyNetBee.com](http://skynetbee.com)**  
+**🌐 [SkynetBee.com](http://skynetbee.com)**  
 *Complete technology platform showcasing full-stack development capabilities*
 
 **🧩 AI Rubik's Cube Solver**  
