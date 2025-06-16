@@ -39,6 +39,10 @@ I am **Monish**, a dedicated Computer Science student with a profound passion fo
 
 ## Achievements
 
+<img src="https://raw.githubusercontent.com/monish-instinct/monish-instinct/output/snake.svg" alt="Snake animation" />
+
+###
+
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=monish-instinct&theme=onestar&no-frame=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophy">
 </div>
