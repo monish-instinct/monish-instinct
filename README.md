@@ -1,7 +1,7 @@
 <!-- Professional Header with Tech Styling -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:6B73FF&height=120&section=header&text=&fontSize=0" width="100%" />
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:6B73FF&height=120&section=header&text=&fontSize=0" width="100%" /> -->
 
 <br>
 
@@ -209,7 +209,7 @@ const monish = {
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:6B73FF&height=120&section=footer" width="100%" />
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:6B73FF&height=120&section=footer" width="100%" /> -->
 
 ## 🤝 Let's Connect
 
