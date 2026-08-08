@@ -1,252 +1,290 @@
-<!-- Professional Header with Tech Styling -->
 <div align="center">
 
-<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:6B73FF&height=120&section=header&text=&fontSize=0" width="100%" /> -->
-
-<br>
-
-# Monish Jagatheswaran
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=6B73FF&center=true&vCenter=true&width=600&lines=AI+Enthusiast+%26+Full+Stack+Developer;Technology+Innovator+%26+Problem+Solver;Building+Next-Generation+Solutions" alt="Typing Animation" />
-
-<br>
-
-<!-- Professional Badges with Tech Colors -->
-<div style="margin: 20px 0;">
-
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-instinctcms.com-6B73FF?style=for-the-badge&logoColor=white&labelColor=2D3748)](http://instinctcms.com)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=for-the-badge&logoColor=white&labelColor=2D3748)](https://www.linkedin.com/in/monishjagatheswaran/)
-[![Email](https://img.shields.io/badge/📧_Email-Contact-EA4335?style=for-the-badge&logoColor=white&labelColor=2D3748)](mailto:pjmonish@icloud.com)
-[![Twitter](https://img.shields.io/badge/🐦_Twitter-Follow-1DA1F2?style=for-the-badge&logoColor=white&labelColor=2D3748)](https://twitter.com/monish_instinct)
-
-</div>
-</div>
-
-<br>
-
-## 🚀 Professional Overview
-
-<table width="100%">
-<tr>
-<td width="60%" valign="top">
-
-### 💡 About Me
-
-```javascript
-const monish = {
-    name: "Monish Jagatheswaran",
-    role: "AI Enthusiast & Full Stack Developer",
-    expertise: ["Machine Learning", "iOS Development", "Web Development"],
-    currentFocus: "Building next-generation AI solutions",
-    location: "🌍 Global",
-    
-    achievements: {
-        stateWinner: "AI Rubik's Cube Solver",
-        recognition: "Intel AI Interview Qualifier",
-        academic: "Best Outgoing Student Award",
-        competitions: "Multiple Technical Victories"
-    },
-    
-    getMotivation: () => {
-        return "Turning innovative ideas into reality through code";
-    }
-};
+```
+╭──────────────────────────────────────────────────────────────╮
+│  ● ● ●                          monish@github — ~/developer   │
+├──────────────────────────────────────────────────────────────┤
+│                                                              │
+│   monish@github ~ % whoami                                   │
+│                                                              │
+│   MONISH JAGATHESWARAN                                       │
+│   AI Systems  ·  iOS Engineering  ·  Full-Stack              │
+│                                                              │
+│   monish@github ~ % _                                        │
+│                                                              │
+╰──────────────────────────────────────────────────────────────╯
 ```
 
-### 🎯 Core Expertise
-
-🧠 **Artificial Intelligence & Machine Learning**  
-📱 **iOS Development (Swift/SwiftUI)**  
-🌐 **Full-Stack Web Development**  
-🥽 **AR/VR & Spatial Computing**  
-👁️ **Computer Vision & Robotics**  
-🎨 **UI/UX Design & Prototyping**  
-
-</td>
-<td width="40%" valign="top">
-
-<div align="center">
-
-### 📊 GitHub Statistics
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=monish-instinct&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=6B73FF&icon_color=00D9FF&text_color=C9D1D9&border_radius=10" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monish-instinct&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=6B73FF&text_color=C9D1D9&border_radius=10" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=monish-instinct&theme=react&hide_border=true&background=0D1117&stroke=6B73FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=C9D1D9&border_radius=10" alt="GitHub Streak" />
+![Swift](https://img.shields.io/badge/Swift-000000?style=flat-square&logo=swift&logoColor=00E599)
+![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=00E599)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=00E599)
+![CoreML](https://img.shields.io/badge/Core%20ML-000000?style=flat-square&logo=apple&logoColor=00E599)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-000000?style=flat-square&logo=tensorflow&logoColor=00E599)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=00E599)
 
 </div>
 
-</td>
-</tr>
-</table>
+---
 
-## 🛠️ Technology Stack
+```bash
+$ ls ~/monish
 
-<div align="center">
+about/     projects/     experience/     skills/     achievements/     contact/
+```
 
-### Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+<sub>
+<a href="#-whoami">about</a> ·
+<a href="#-projects">projects</a> ·
+<a href="#-experience">experience</a> ·
+<a href="#-stack">skills</a> ·
+<a href="#-achievements">achievements</a> ·
+<a href="#-connect">contact</a>
+</sub>
 
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-000000?style=for-the-badge&logo=swift&logoColor=blue)
+---
 
-### Tools & Platforms
-![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=xcode&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+## `$` whoami
 
-</div>
+```bash
+$ whoami
+```
 
-<table width="100%">
+**Monish Jagatheswaran** — I build AI systems that run where the user is, not only in the cloud.
+
+Most of my work sits in three lanes: **on-device ML for Apple platforms** (Swift, Core ML, shipped as a reusable `.xcframework`), **deep-learning products** (TensorFlow, CNNs, computer vision), and the **full-stack surfaces** that make them usable (Next.js, Node, REST).
+
+Co-founded **SkyneTBee AI Enterprise** at 16; now Senior Vice President there while doing an Integrated MTech in Computer Engineering at VIT.
+
+---
+
+## `$` status
+
+```bash
+$ systemctl status monish
+
+● developer.service — ACTIVE (running)
+
+  Role        : Senior Vice President, SkyneTBee AI Enterprise Pvt Ltd
+  Education   : MTech (Integrated), Computer Engineering — VIT, 2023–2028
+  Focus       : On-device ML · iOS/macOS frameworks · Full-stack AI products
+  Location    : Coimbatore, Tamil Nadu, India
+  Certified   : DeepLearning.AI — Neural Networks, CNNs, Hyperparameter Tuning
+```
+
+---
+
+## `$` projects
+
+### ▸ Flagship
+
+```bash
+$ cat projects/neural-engine.md
+```
+
+```
+NEURALENGINE                                            2024 — present
+──────────────────────────────────────────────────────────────────────
+
+A high-performance Swift .xcframework that brings machine-learning
+inference on-device for iOS and macOS — zero cloud dependency.
+
+WHY IT MATTERS
+  Inference stays on the device: no round trips, no user data leaving
+  the phone, no per-request cost. Drop-in integration, minimal API
+  surface — designed to be adopted, not studied.
+
+STACK
+  Swift · Core ML · AVFoundation · .xcframework · Xcode
+
+HIGHLIGHTS
+  → Distributed as a binary .xcframework for iOS + macOS
+  → Real-time media pipeline via AVFoundation
+  → Minimal public API designed for drop-in adoption
+  → Shipped as part of SkyneTBee's product line
+```
+
+<br>
+
+### ▸ Also built
+
+<table>
 <tr>
-<td width="25%" align="center">
+<td width="50%" valign="top">
 
-### 📱 Mobile Development
-- **iOS Development** (Swift/SwiftUI)
-- **Android Development** (Kotlin)
-- **Cross-Platform Solutions**
-- **VisionOS Applications**
-- **Mobile UI/UX Design**
+```
+AI COGNITIVE MEMORY
+SUPPORT PLATFORM                2024
+─────────────────────────────────────
+Full-stack platform pairing deep-
+learning memory analysis with a
+responsive Next.js interface.
 
-</td>
-<td width="25%" align="center">
+  → Real-time AI inference endpoints
+  → User-adaptive cognitive exercises
 
-### 🤖 AI & Machine Learning
-- **Machine Learning Models**
-- **Computer Vision** (OpenCV)
-- **Natural Language Processing**
-- **Deep Learning** (TensorFlow/PyTorch)
-- **AI Algorithm Development**
+Next.js · Python · TensorFlow · REST
+```
 
 </td>
-<td width="25%" align="center">
+<td width="50%" valign="top">
 
-### 🌐 Web Development
-- **Frontend** (React/JavaScript)
-- **Backend** (Node.js/Flask)
-- **Full-Stack Architecture**
-- **RESTful APIs**
-- **Database Management**
+```
+AI RUBIK'S CUBE SOLVER          2024
+─────────────────────────────────────
+Hardware + software solver using
+real-time computer vision for cube-
+state detection.
 
-</td>
-<td width="25%" align="center">
+  → CNN-backed move prediction engine
+  → Sub-second solve times
 
-### 🥽 AR/VR Development
-- **Unity 3D Development**
-- **Spatial Computing**
-- **Mixed Reality Applications**
-- **3D Modeling** (Blender)
-- **C# Programming**
+Python · CV · TensorFlow · Hardware
+```
 
 </td>
 </tr>
-</table>
-
-## 🏆 Professional Achievements
-
-<table width="100%">
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🎯 Key Accomplishments
+```
+E-SUMMIT 2025 WEBSITE           2025
+─────────────────────────────────────
+Official site for E-Cell VIT's flagship
+summit, serving thousands of attendees.
 
-**🥇 State Science Exhibition Winner**  
-*Developed an AI-powered automatic Rubik's cube solver using advanced computer vision and robotics integration*
+  → Automation across digital event ops
 
-**🤖 Intel AI Interview Qualifier**  
-*Selected in the first round of Intel's highly competitive AI interview process*
-
-**🎓 Best Outgoing Student Award**  
-*Recognized for academic excellence and leadership capabilities*
-
-**🏆 Multiple Technical Competition Victories**  
-*Consistent winner in programming and innovation challenges*
+Next.js
+```
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🚀 Featured Projects
+```
+$ git status                    ~/monish
+─────────────────────────────────────
+On branch main
 
-**🌐 [SkynetBee.com](http://skynetbee.com)**  
-*Complete technology platform showcasing full-stack development capabilities*
-
-**🧩 AI Rubik's Cube Solver**  
-*Computer vision + robotics integration for autonomous puzzle solving*
-
-**📱 Cross-Platform Mobile Apps**  
-*iOS and Android applications with modern UI/UX design principles*
-
-**🥽 Immersive VR/AR Experiences**  
-*Unity 3D powered applications for spatial computing platforms*
+nothing to commit,
+still building.
+```
 
 </td>
 </tr>
 </table>
 
-<br>
+---
 
-## 📈 Development Activity
+## `$` experience
+
+```bash
+$ git log --author="Monish" --oneline
+```
+
+```
+2024 ── present
+│
+├── SkyneTBee AI Enterprise Pvt Ltd — Senior Vice President
+│   └── Founding team member since Jun 2021 · Erode, TN
+│       Scaled engineering from founding prototype to a multi-product
+│       AI enterprise across iOS, web and ML workstreams. Defined
+│       coding standards, architecture patterns and CI/CD —
+│       ~40% shorter dev-to-deploy cycles. Shipped NeuralEngine.
+│
+2025 ── present
+│
+├── Entrepreneurship Cell, VIT — Senior Technical Executive
+│   └── Technical Core Member, Dec 2023 – Jan 2025 · Vellore, TN
+│       Built and maintained the E-Summit 2025 site (Next.js);
+│       mentored 10+ teams on stack selection and prototyping.
+│
+2025
+│
+├── MuleCraft Digital — Developer Intern (May – Jul 2025)
+│   └── Salem, TN · Internship completion certified
+│       Full-stack features and API integrations for client products.
+│
+2024 ── 2025
+│
+└── ADGVIT — iOS Committee Member
+    └── Led Swift/SwiftUI workshops and project development.
+        Campus Ambassador, E-Cell IIT Bombay (Jul – Oct 2024).
+```
+
+---
+
+## `$` stack
+
+```bash
+$ cat skills.json | jq
+```
+
+```
+LANGUAGES      Swift · Python · JavaScript / TypeScript · SQL
+
+iOS / APPLE    SwiftUI · UIKit · Core ML · AVFoundation
+               .xcframework · Xcode · on-device ML inference
+
+AI / ML        TensorFlow · Deep Learning · CNNs · Computer Vision
+
+WEB & BACKEND  Next.js · React.js · Node.js · Express.js
+               REST APIs · MongoDB
+
+OTHER          Blockchain · CI/CD
+```
+
+---
+
+## `$` achievements
+
+```bash
+$ ./achievements --verbose
+```
+
+```
+[01]  State Science Award — winner
+[02]  Co-founded SkyneTBee AI Enterprise at age 16
+[03]  Best Outgoing Student — RD International School
+[04]  Student Organiser, ICNAN'25 — 3rd Intl. Conference on
+      Nanoscience, VIT · 60+ speakers · 20+ countries
+[05]  Campus Ambassador — E-Cell, IIT Bombay
+[06]  DeepLearning.AI certified — Neural Networks & Deep Learning,
+      CNNs in Computer Vision, Hyperparameter Tuning & Regularization
+```
+
+---
+
+## `$` current
+
+```bash
+$ ps aux | grep current
+
+● BUILDING    NeuralEngine — on-device ML inference for iOS & macOS
+● STUDYING    MTech (Integrated), Computer Engineering — VIT
+● EXPLORING   [ add current exploration ]
+```
+
+---
+
+## `$` connect
+
+```bash
+$ connect --with monish
+```
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=monish-instinct&custom_title=Development%20Activity%20Timeline&bg_color=0D1117&color=6B73FF&line=00D9FF&point=FF6B6B&area=true&hide_border=true&border_radius=10" alt="GitHub Activity Graph" width="100%" />
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=00E599)](https://monishjagatheswaran.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00E599)](https://github.com/monish-instinct)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00E599)](https://www.linkedin.com/in/monishjagatheswaran/)
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00E599)](mailto:pjmonish@gmail.com)
+
+<br>
+
+```
+$ uptime
+
+  still building.
+```
 
 </div>
-
-<br>
-
-<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:6B73FF&height=120&section=footer" width="100%" /> -->
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-
-<td align="center" width="25%">
-<a href="https://www.linkedin.com/in/monishjagatheswaran/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-</td>
-<td align="center" width="25%">
-<a href="mailto:pjmonish2005@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-</td>
-<td align="center" width="25%">
-<a href="http://skynetbee.com">
-<img src="https://img.shields.io/badge/Portfolio-6B73FF?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
-</a>
-</td>
-<td align="center" width="25%">
-<a href="https://twitter.com/monish_instinct">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-</a>
-</td>
-
-
-<br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=monish-instinct&style=for-the-badge&color=6B73FF&labelColor=2D3748)
-
-<br>
-
-**💡 Available for collaboration on innovative AI and technology projects**
-
-*"Code is poetry, and every algorithm tells a story."*
-
-</div>
-
